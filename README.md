@@ -12,12 +12,12 @@ Execute the commands below in cmd.
 - Vagrant
 - Oracle Virtual Machine or other VM
 ## Essential Commands
-<p>```vagrant init``` - Criar vagranfile.</p>
-<p>```vagrant up``` - Iniciar VM.</p>
-<p>```vagrant status``` - Status VM.</p>
-<p>```vagrant ssh``` - Conectar via SSH.</p>
-<p>```vagrant halt``` - Desligar VM.</p>
-<p>```vagrant destroy``` - Apagar VM.</p>
-<p>```vagrant provision``` - Rodar provision.</p>
-<p>```vagrant box list``` - Listar boxes.</p>
-<p>```vagrant --help``` - Obter ajuda.</p>
+```vagrant init``` - Criar vagranfile.</p>
+```vagrant up``` - Iniciar VM.</p>
+```vagrant status``` - Status VM.</p>
+```vagrant ssh``` - Conectar via SSH.</p>
+```vagrant halt``` - Desligar VM.</p>
+```vagrant destroy``` - Apagar VM.</p>
+```vagrant provision``` - Rodar provision.</p>
+```vagrant box list``` - Listar boxes.</p>
+```vagrant --help``` - Obter ajuda.</p>
